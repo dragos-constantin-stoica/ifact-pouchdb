@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-This repository contains [PouchDB](https://pouchdb.com/) based code and is available for offline demo [iFact offline](). All changes that you made will be stored in local browser storage.
+This repository contains [PouchDB](https://pouchdb.com/) based code and is available for offline demo [iFact offline](https://dragos-constantin-stoica.github.io/ifact-pouchdb/). All changes that you made will be stored in local browser storage.
 
 You do not need an user name and a password to access the application.
 
@@ -31,7 +31,7 @@ Pre-requisites:
 
 * Web browser
 
-The application should be availble at: http://. 
+The application should be availble at: https://dragos-constantin-stoica.github.io/ifact-pouchdb/ 
 
 Congratulations!  
 
